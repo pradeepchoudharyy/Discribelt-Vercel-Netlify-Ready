@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "particles.js": "^2.0.0",
+    "react-tsparticles": "^2.12.2",
+    "tsparticles": "^3.9.1",
+    "uuid": "^11.1.0"
+  }
+}
